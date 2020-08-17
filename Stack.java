@@ -1,8 +1,5 @@
-//6039168
 public class Stack 
 {
-   //some references were taken from the powerpoints
-
     public class Node
     {
         int info;
